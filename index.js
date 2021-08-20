@@ -19,5 +19,7 @@ const tirednessLevels = {
 }
 
 function kenify(sentence, tirednessLevel) {
-  
+  console.log("hello world ken.")
 }
+
+module.exports = kenify;

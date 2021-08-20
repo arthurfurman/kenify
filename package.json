@@ -1,0 +1,19 @@
+{
+  "name": "kenify",
+  "version": "1.0.0",
+  "description": "kenify every sentence!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurfurman/kenify.git"
+  },
+  "author": "Arthur Furman <foarthur@gmail.comnpm link>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurfurman/kenify/issues"
+  },
+  "homepage": "https://github.com/arthurfurman/kenify#readme"
+}
