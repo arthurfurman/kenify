@@ -1,6 +1,6 @@
 {
   "name": "kenify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "kenify every sentence!",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/arthurfurman/kenify.git"
   },
-  "author": "Arthur Furman <foarthur@gmail.comnpm link>",
+  "author": "Arthur Furman <foarthur@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/arthurfurman/kenify/issues"
